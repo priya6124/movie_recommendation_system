@@ -51,13 +51,13 @@ The project uses the **TMDb 5000 Movies Dataset**, which includes:
 - Cast and crew information.
 
 ### Outputs
-The project produces movie recommendations and has a visual output that showcases the recommendations. (Refer to the provided `output.png` for an example.)
+The project produces movie recommendations and has a visual output that showcases the recommendations. 
+![3](https://github.com/user-attachments/assets/f8c65b82-124c-4611-b49a-afee5788f5ea)
 
 ### Technologies Used
 - **Python**: Core programming language.
 - **Pandas**: For data manipulation and analysis.
 - **Scikit-learn**: For implementing machine learning models.
-- **Flask**: For building the web interface (if applicable).
 
 ### Future Enhancements
 - Integrate user-based collaborative filtering for personalized recommendations.
